@@ -8,7 +8,8 @@ An incresed front-to-back curve of the upper spine is called as kyphosis.
 <code>accuracy_score </code><br>
 <code>precision_score </code><br>
 <code>recall_score</code><br>
-<code>f1_score,matthews_corrcoef</code><br>
+<code>f1_score</code><br>
+<code>matthews_corrcoef</code><br>
 
 ### Decision Tree-
 With diffrent depth level and entropy type
